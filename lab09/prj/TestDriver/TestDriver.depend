@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622590894 source:d:\programming\projects\codeblocks\testdriver\main.cpp
+	<iostream>
+	"moduleskondrashenko.h"
+

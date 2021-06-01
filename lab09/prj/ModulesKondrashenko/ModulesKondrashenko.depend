@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1622590305 source:d:\programming\projects\codeblocks\moduleskondrashenko\main.cpp
+	<iostream>
+	<cmath>
+	<wchar.h>
+	<io.h>
+	<string>
+	<bitset>
+	"moduleskondrashenko.h"
+

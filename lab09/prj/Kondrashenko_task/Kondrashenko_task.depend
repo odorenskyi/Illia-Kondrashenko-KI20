@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622590285 source:d:\programming\projects\codeblocks\kondrashenko_task\main.cpp
+	<iostream>
+	<windows.h>
+	<clocale>
+	<wchar.h>
+	<fcntl.h>
+	<iomanip>
+	<io.h>
+	"moduleskondrashenko.h"
+
